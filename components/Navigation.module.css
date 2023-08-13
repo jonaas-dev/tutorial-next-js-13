@@ -7,4 +7,10 @@
 .navigation {
     display: flex;
     list-style: none;
+    gap: 32px
+}
+
+.navigation a:hover {
+    color: #000000;
+    text-decoration: underline;
 }
