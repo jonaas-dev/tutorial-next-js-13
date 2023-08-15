@@ -3,12 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --turbo",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
+    "@next/font": "13.4.16",
     "eslint": "8.47.0",
     "eslint-config-next": "13.4.13",
     "next": "13.4.13",
