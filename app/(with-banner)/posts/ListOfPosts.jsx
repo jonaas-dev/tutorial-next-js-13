@@ -1,4 +1,4 @@
-import { LikeButton } from '../LikeButton'
+import { LikeButton } from '../../LikeButton'
 import Link from 'next/link'
 
 // NOTES (next 12 to 13)

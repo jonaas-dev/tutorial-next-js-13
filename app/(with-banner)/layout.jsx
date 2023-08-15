@@ -1,7 +1,7 @@
 export default function PostsLayout ({ children }) {
   return (
     <div>
-      <small>Home &bull; Posts</small>
+      <marquee style={{ color: 'purple' }}>Some text</marquee>
       {children}
     </div>
   )
